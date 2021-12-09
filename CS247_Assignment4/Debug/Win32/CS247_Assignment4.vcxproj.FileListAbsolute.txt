@@ -1,2 +1,0 @@
-D:\2021 spring\Scientific Visualization\2021-cs247\CS247_Assignment4\Debug\Win32\CS247_Assignment4.exe
-D:\2021 spring\Scientific Visualization\2021-cs247\CS247_Assignment4\Debug\Win32\CS247_Assignment4.pdb
